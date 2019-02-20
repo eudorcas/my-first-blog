@@ -41,10 +41,15 @@ h1, h2, h3, h4 {
 
 .post {
     margin-bottom: 70px;
-    border: 2px dotted gray;
+    border: 2px solid gray;
     padding: 20px;
 }
 
 .post h1 a, .post h1 a:visited {
     color: #000000;
+}
+
+.comment {
+    margin: 20px 0px 20px 20px;
+
 }
