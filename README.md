@@ -6,4 +6,4 @@ Blog website built with Django framework, made during the Django Girls workshops
 - Django
 - CSS
 
-[Django Girls](https://djangogirls.org/)
+[Django Girls](https://djangogirls.org/) :woman: :muscle: 
